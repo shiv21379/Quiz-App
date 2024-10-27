@@ -1,4 +1,7 @@
-Build a Quiz App with HTML, CSS, and JavaScript
+**Build a Quiz App with HTML, CSS, and JavaScript**
+
+Check out the live version of the Quiz App here: [Quiz App](https://quiz-app-4ek5.vercel.app/)
+
 
 **Features** **:**
 1. **Dynamic Quiz Content**: Fetches new trivia questions from the Open Trivia DB API each session.
