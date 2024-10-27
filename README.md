@@ -2,6 +2,7 @@
 
 Check out the live version of the Quiz App here: [Quiz App](https://quiz-app-4ek5.vercel.app/)
 
+![{91E87915-3966-495E-A71A-EEBC65875B99}](https://github.com/user-attachments/assets/532712db-8935-460c-8d28-d4f340c67905)
 
 **Features** **:**
 1. **Dynamic Quiz Content**: Fetches new trivia questions from the Open Trivia DB API each session.
